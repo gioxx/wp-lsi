@@ -10,8 +10,8 @@ In caso di dubbi, contattami.
 
 ------
 
-Credits:
+Credits:  
 https://generatepress.com/forums/topic/lightweight-social-icons-request/#post-172570
 
-Thanks to:
+Thanks to:  
 https://www.toptal.com/developers/cssminifier/
