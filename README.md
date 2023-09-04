@@ -1,12 +1,12 @@
 # Lightweight Social Icons Mod 1.1.1
 
-Dato che lo sviluppo di questo ottimo plugin è fermo a due anni fa (vedi https://wordpress.org/plugins/lightweight-social-icons/), ci ho rimesso mano per generare una versione più aggiornata di Fontello (il font incluso nel plugin) così da poter includere Mastodon e Telegram, rimuovendo con l'occasione Google+ (dato che non esiste più).
+Given that the development of this excellent plugin has been stagnant for two years (see https://wordpress.org/plugins/lightweight-social-icons/), I revisited it to generate a more updated version of Fontello (the font included in the plugin) to include Mastodon and Telegram, and took the opportunity to remove Google+ (since it no longer exists).
 
-Basterà sostituire i file originali del plugin nella tua installazione Wordpress (via FTP) per non perdere alcuna configurazione. Potrai in seguito aggiungere i nuovi Social Network introdotti.
+You will simply need to replace the original plugin files in your WordPress installation (via FTP) to not lose any configuration. You can then add the new Social Networks introduced.
 
-Per richieste di nuove icone puoi aprire una Issue. All'interno della cartella "**asset**" ho incluso anche il file di configurazione json che puoi caricare su Fontello per dare un'occhiata ai codici hex delle icone / modificarli / aggiungerne / ecc.
+For requests for new icons, you can open an Issue. Inside the "asset" folder, I have also included the json configuration file that you can upload to Fontello to take a look at the hex codes of the icons / modify them / add more / etc.
 
-In caso di dubbi, contattami.
+If you have any doubts, contact me.
 
 ------
 
