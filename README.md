@@ -1,4 +1,4 @@
-# Lightweight Social Icons Mod 1.1.1
+# Lightweight Social Icons Mod 1.1.2
 
 Given that there hasn't been any development on this plugin for two years (refer to [Lightweight Social Icons on WordPress](https://wordpress.org/plugins/lightweight-social-icons/)), I've taken the initiative to update it. I've introduced a newer version of Fontello (the font used in the plugin) to include Mastodon and Telegram. Additionally, I've removed Google+ since it's now defunct.
 
