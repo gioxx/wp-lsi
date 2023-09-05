@@ -7,12 +7,6 @@
   "ascent": 850,
   "glyphs": [
     {
-      "uid": "ccc2329632396dc096bb638d4b46fb98",
-      "css": "email-alt",
-      "code": 61664,
-      "src": "fontawesome"
-    },
-    {
       "uid": "531359183f9fedb14b23666f1308591f",
       "css": "telegram",
       "code": 62150,
@@ -512,6 +506,26 @@
       "uid": "d20b5fb608f848b0e14aef1325c9e23c",
       "css": "snapchat-square",
       "code": 59459,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "58e425f5679b56058e1f3df0405f3dae",
+      "css": "x",
+      "code": 59415,
+      "src": "custom_icons",
+      "selected": true,
+      "svg": {
+        "path": "M760.2 93.8H898L596.9 437.9 951.1 906.3H673.8L456.5 622.2 207.9 906.3H70L392.1 538.1 52.3 93.8H336.7L533 353.4ZM711.8 823.7H788.2L295.2 171.9H213.2Z",
+        "width": 1000
+      },
+      "search": [
+        "x"
+      ]
+    },
+    {
+      "uid": "ccc2329632396dc096bb638d4b46fb98",
+      "css": "email-alt",
+      "code": 61664,
       "src": "fontawesome"
     }
   ]
