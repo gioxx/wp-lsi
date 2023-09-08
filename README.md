@@ -10,8 +10,6 @@ Should you have any questions, please don't hesitate to contact me.
 
 ------
 
-Credits:  
-https://generatepress.com/forums/topic/lightweight-social-icons-request/#post-172570
-
-Thanks to:  
-https://www.toptal.com/developers/cssminifier/
+**Credits**: [generatepress.com/forums/topic/lightweight-social-icons-request/#post-172570](https://generatepress.com/forums/topic/lightweight-social-icons-request/#post-172570)  
+**Thanks to**: [toptal.com/developers/cssminifier/](https://www.toptal.com/developers/cssminifier/)  
+**Blog post (in italian)**: [go.gioxx.org/lsimod](https://go.gioxx.org/lsimod)
